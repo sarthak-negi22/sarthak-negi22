@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthak-negi22.
 - 👀 I’m interested in blockchain technology. I am looking forward to make it as my career.
-- 🌱 I’m currently learning javascript and then I will move to frameworks like reactJS, nextJS.
+- 🌱 I’m currently learning javascript frameworks like reactJS, nextJS.
 - 💞️ I’m looking to contribute in open source projects related to java backend web dev.
 - 📫 Linkedin profile link -> https://www.linkedin.com/in/sarthak-negi-b69012146/
 
