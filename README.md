@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS framework**
 
-- 👯 I’m looking to collaborate on **open source projects particularly in blockchain**
+- 👯 I’m looking to collaborate on **open source projects particularly frontend development**
 
 - 🤝 I’m looking for help with [Coinbase-Blockchain-app](https://github.com/sarthak-negi22/coinbase-blockchain-app)
 
