@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-negi22" alt="sarthak-negi22" /></a> </p>
 
-- 🔭 I’m currently working on [promptopia-nextjs](https://github.com/sarthak-negi22/promptopia-nextjs)
+- 🔭 I’m currently working on [priceWise](https://github.com/sarthak-negi22/priceWise)
 
-- 🌱 I’m currently learning **ReactJS framework**
+- 🌱 I’m currently learning **frameworks like reactjs, nextjs**
 
 - 👯 I’m looking to collaborate on **open source projects particularly frontend development**
 
