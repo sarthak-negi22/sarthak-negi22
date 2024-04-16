@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-negi22" alt="sarthak-negi22" /></a> </p>
 
-- 🌱 I’m currently learning **frameworks like reactjs, nextjs**
-
-- 👯 I’m looking to collaborate on **open source projects particularly frontend development**
-
-- 📫 How to reach me **saryatnam22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sarthak_negi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sarthak_negi22" height="30" width="40" /></a>
