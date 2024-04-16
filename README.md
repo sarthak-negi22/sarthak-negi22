@@ -3,15 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-negi22" alt="sarthak-negi22" /></a> </p>
 
-- 🔭 I’m currently working on [priceWise](https://github.com/sarthak-negi22/priceWise)
-
 - 🌱 I’m currently learning **frameworks like reactjs, nextjs**
 
 - 👯 I’m looking to collaborate on **open source projects particularly frontend development**
-
-- 🤝 I’m looking for help with [Coinbase-Blockchain-app](https://github.com/sarthak-negi22/coinbase-blockchain-app)
-
-- 💬 Ask me about **object oriented languages like Java**
 
 - 📫 How to reach me **saryatnam22@gmail.com**
 
